@@ -1,0 +1,10 @@
+{
+  "version": "1.0.3",
+  "devDependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "dependencies": {
+    "vtex": "^2.78.6"
+  }
+}

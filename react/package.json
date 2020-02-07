@@ -1,0 +1,10 @@
+{
+  "name": "yes-no-app",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/react": "^16.9.19"
+  }
+}
